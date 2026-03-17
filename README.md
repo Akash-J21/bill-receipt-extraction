@@ -53,7 +53,7 @@ The pipeline processes input images and converts unstructured receipt data into 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/bill-receipt-extraction.git
+git clone https://github.com/Akash-J21/bill-receipt-extraction.git
 cd bill-receipt-extraction
 ```
 
@@ -112,7 +112,7 @@ Steps inside notebook:
 
 ## 📚 Dependencies
 
-Example `requirements.txt`:
+add `requirements.txt` if not available:
 
 ```
 spacy
